@@ -1,0 +1,9 @@
+// Giải thích kiểu dữ liệu nguyên thủy và không nguyên thủy(primitive và non-primitive)
+Dữ liệu nguyên thủy (number, string, boolen,...) được lưu trữ trực tiếp trên bộ nhớ.
+var n = 1;
+let n = true;
+
+Dữ liệu không nguyên thủy (oject, array, func ) được lưu trữ dưới dạng tham chiếu, chỉ định đến vùng nhớ khác chứa dữ liệu.
+
+var array =[ 1, 2, 3, 4];
+const person = { name: string, age: Number, address: String};

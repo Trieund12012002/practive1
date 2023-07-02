@@ -1,0 +1,12 @@
+Trình bày khái niệm về Event Driven, Synchronus, Asynchronus.
+
+
+Event Driven là một mô hình lập trình trong đó luồng điều khiển của chương trình không được quyết định theo trình tự tuyến tính
+mà dựa trên sự xảy ra của các sự kiện (events như nhấp chuột, nhấn phím hoặc có thể là sự kiện hệ thống như khi một tập tin đã
+tải xong hoặc một yêu cầu mạng đã được hoàn thành). Trong mô hình này, chương trình sẽ phản ứng và xử lý các sự kiện khi chúng xảy ra.
+
+Synchronus
+JavaScript là một ngôn ngữ đơn luồng, nghĩa là các công việc trong JavaScript thực hiện theo trình tự từ trên xuống dưới
+một cách đồng bộ (synchronous). Tức là một công việc sẽ được thực hiện hoàn thành trước khi công việc tiếp theo được thực hiện.
+
+Asynchronus là một khái niệm trong lập trình để chỉ việc thực hiện các công việc mà không chờ đợi hoàn thành của công việc trước đó.
