@@ -12,5 +12,5 @@ function Function1() {
   }
   
   var closure = Function1();
-  closure(); // In ra "Hello world"
+  closure();
   
